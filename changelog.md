@@ -4,21 +4,37 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased - Scheduled 2020-05-15 (UAT)
+## Unreleased - Scheduled 2020-05-22
 
 Added
-- Phytosanitary Certificate for Re-Export enabled
-- Archive button for completed ePhyto's
+-
+-
+-
 
 Changed
-- Active state for Statuses [UX]
-- AJAX loader for View Applications [UX]
-- Clear Filter for Grid (View Applications) [UX]
-- Global Pagination - Various Improvements [Fix]
-- Agreements - Multiple commodities text wrapped [UX]
+-
+-
+-
 
 Fixed
-- Special Characters are now encoded for both End & API Users
+-
+-
+-
+
+## 0.0.3 - 2020-05-18
+
+Added
+-
+-
+-
+Changed
+-
+-
+-
+Removed
+-
+-
+-
 
 ## 0.0.2 - 2020-05-12
 Added
