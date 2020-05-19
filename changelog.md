@@ -7,34 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased - Scheduled 2020-05-22
 
 Added
--
--
--
-
-Changed
--
--
--
-
-Fixed
--
--
--
+- 1
+- 2
+- 3
 
 ## 0.0.3 - 2020-05-18
 
 Added
--
--
--
+- 1
+- 2
+- 3
+
 Changed
--
--
--
+- 1
+- 2
+- 3
+
 Removed
--
--
--
+- 1
+- 2
+- 3
 
 ## 0.0.2 - 2020-05-12
 Added
