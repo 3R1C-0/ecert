@@ -11,15 +11,25 @@ Added
 - 2
 - 3
 
-## 0.0.3 - 2020-05-18
-
-Added
+Changed
 - 1
 - 2
 - 3
 
-Changed
+Removed
 - 1
+- 2
+- 3
+
+## 0.0.3 - 2020-05-18
+
+Added
+- Clear filter for improved search functionality
+- 2
+- 3
+
+Changed
+- Bardcode on the PDF is now restricted to 31 Characters
 - 2
 - 3
 
