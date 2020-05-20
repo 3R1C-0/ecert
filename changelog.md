@@ -20,7 +20,7 @@ Added
 - 3
 
 Changed
-- 1
+- PDF Header size change, increased Barcode and QR Code for more efficent scanning
 - 2
 - 3
 
