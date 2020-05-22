@@ -8,15 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Changed] for changes in existing functionality.
 [Deprecated] for soon-to-be removed features.
 [Removed] for now removed features.
-[Fixed for] any bug fixes.
+[Fixed] any bug fixes.
 [Security] in case of vulnerabilities.
 [Updated] for guides and documentations.
 
 ## Unreleased - Scheduled 2020-05-22
 
 Added
-- 1
-- 2
+- Notification Emails: Withdrawn now includes Client Reference Number
+- NPPO Module implemented
 - 3
 
 Changed
