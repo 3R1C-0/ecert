@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Security] in case of vulnerabilities.
 [Updated] for guides and documentations.
 
-## Unreleased - Scheduled 2020-05-22
+## Unreleased - Scheduled 2020-05-22 (Date to be decided - Important)
 
 Added
 - Notification Emails: Withdrawn now includes Client Reference Number
@@ -29,7 +29,7 @@ Removed
 - 2
 - 3
 
-## 0.0.3 - 2020-05-18
+## 0.0.3 - 2020-05-18 (Date to be decided?)
 
 Added
 - Clear filter for improved search functionality
