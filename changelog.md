@@ -20,7 +20,7 @@ Added
 - Clear filter for improved search functionality
 - Notification Emails: Withdrawn Applications now includes Client Reference Number
 - NPPO Module implemented
-- eLot API Validations Guide
+- eLot API Validations Guide (2020-05-20)
 
 Changed
 - Bardcode on ePhyto PDF is now restricted to 33 Characters
