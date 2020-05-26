@@ -12,42 +12,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Security] in case of vulnerabilities.
 [Updated] for guides and documentations.
 
-## Unreleased - Scheduled 2020-05-22 (Date to be decided - Important)
+## Unreleased
 
-Added
-- Notification Emails: Withdrawn now includes Client Reference Number
-- NPPO Module implemented
-- 3
-
-Changed
-- PDF Header size change, increased Barcode and QR Code for more efficent scanning
-- 2
-- 3
-
-Removed
-- 1
-- 2
-- 3
-
-## 0.0.3 - 2020-05-18 (Date to be decided?)
+## 0.0.3 - 2020-05-22
 
 Added
 - Clear filter for improved search functionality
-- 2
-- 3
+- Notification Emails: Withdrawn Applications now includes Client Reference Number
+- NPPO Module implemented
+- eLot API Validations Guide
 
 Changed
-- Bardcode on ePhyto PDF is now restricted to 31 Characters
-- 2
-- 3
+- Bardcode on ePhyto PDF is now restricted to 33 Characters
+- PDF Header size change, increased Barcode and QR Code for more efficent scanning
 
 Updated
 - eCert Agreements Web API User Guide (2020-05-19)
-
-Removed
-- 1
-- 2
-- 3
 
 ## 0.0.2 - 2020-05-12
 Added
