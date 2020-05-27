@@ -21,6 +21,7 @@ Added
 - Notification Emails: Withdrawn Applications now includes Client Reference Number
 - NPPO Module implemented
 - eLot API Validations Guide (2020-05-20)
+- eInspect Module is live
 
 Changed
 - Bardcode on ePhyto PDF is now restricted to 33 Characters
@@ -40,7 +41,7 @@ Fixed
 
 ## 0.0.1 - 2020-05-05
 Added
-- eInspect Module: PPECB Inspections made available. Addendums to be added digitally
+- eInspect Module: PPECB Inspections made available for testing.
 - Approval/Rejection/Withdrawn Email Notifications for End Users and via the API
 
 Removed
