@@ -14,6 +14,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.0.4 - 2020-05-29
+
+Added
+- Special Characters are now encoded for API & Frontend
+- 2
+- 3
+
+Changed
+- 1
+- 2
+- 3
+
+Fixed
+- Inspectors now able to update profiles without validation errors
+
 ## 0.0.3 - 2020-05-22
 
 Added
