@@ -14,15 +14,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## 0.0.4 - 2020-05-29
+## 0.0.4 - 2020-06-05
 
 Added
-- Special Characters are now encoded for API & Frontend
-- 2
+- Special Characters are now encoded for Frontend - API users to encode with HTML entities
+- Super Admin ability to activate or deactivate an Inspector
 - 3
 
 Changed
-- 1
+- PDF 417 Bardcode size increased
 - 2
 - 3
 
