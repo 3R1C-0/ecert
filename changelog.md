@@ -14,20 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## 0.0.4 - 2020-06-05
+## 0.0.4 - 2020-06-10
 
 Added
 - Special Characters are now encoded for Frontend - API users to encode with HTML entities
 - Super Admin ability to activate or deactivate an Inspector
-- 3
 
 Changed
 - PDF 417 Bardcode size increased
-- 2
-- 3
 
 Fixed
-- Inspectors now able to update profiles without validation errors
+- Saving user profiles no longer returns a validation error
+- Minor bug fixes
 
 ## 0.0.3 - 2020-05-22
 
