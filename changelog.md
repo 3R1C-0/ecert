@@ -15,13 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 
 Fixed
-- Age Column to correctly displays time
-
+- Age Column to correctly display time from time of submit
 
 ## 0.0.5 - 2020-06-19
 
 Updated
 - eLot Notice Web API Guide (2020-06-09)
+
 Added
 - Payment Type for ePhyto Wizard
 
