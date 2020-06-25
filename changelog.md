@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 
 Fixed
-- Age Column to correctly display time from time of submit
+- Age Column to correctly displays time
 
 ## 0.0.5 - 2020-06-19
 
@@ -23,10 +23,15 @@ Updated
 - eLot Notice Web API Guide (2020-06-09)
 
 Added
-- Payment Type for ePhyto Wizard
+- Payment Type for ePhyto Application
 
 Changed
 - Grid Filter simpified
+
+Fixed
+- Manage Profile: update password and update email address works as intended
+- Search field on Agreements page works as intended
+- Download all Agreements populates with required fields
 
 ## 0.0.4 - 2020-06-10
 
