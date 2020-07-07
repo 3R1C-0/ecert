@@ -32,6 +32,7 @@ Fixed
 - Manage Profile: update password and update email address works as intended
 - Search field on Agreements page works as intended
 - Download all Agreements populates with required fields
+- Application Referance Number Column shows all applications after 100K ePhytos
 
 ## 0.0.4 - 2020-06-10
 
