@@ -24,6 +24,7 @@ Updated
 
 Added
 - Payment Type for ePhyto Application
+- Archive function for ePhyto's
 
 Changed
 - Grid Filter simpified
