@@ -14,10 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-Fixed
-- Age Column to correctly displays time
 
-## 0.0.5 - 2020-06-19
+
+
+## 0.0.5 - 2020-07-15
 
 Updated
 - eLot Notice Web API Guide (2020-06-09)
@@ -25,6 +25,7 @@ Updated
 Added
 - Payment Type for ePhyto Application
 - Archive function for ePhyto's
+- ePhyto's A4 printing function
 
 Changed
 - Grid Filter simpified
@@ -34,6 +35,8 @@ Fixed
 - Search field on Agreements page works as intended
 - Download all Agreements populates with required fields
 - Application Referance Number Column shows all applications after 100K ePhytos
+- Age Column to correctly displays time
+- Departure Date uses correct formula 
 
 ## 0.0.4 - 2020-06-10
 
