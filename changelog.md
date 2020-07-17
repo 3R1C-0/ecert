@@ -21,11 +21,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Updated
 - eLot Notice Web API Guide (2020-06-09)
+- PhytClean Web API Guide V1.9
 
 Added
 - Payment Type for ePhyto Application
 - Archive function for ePhyto's
-- ePhyto's A4 printing function
+- ePhyto's A4 printing function (backup)
 
 Changed
 - Grid Filter simpified
